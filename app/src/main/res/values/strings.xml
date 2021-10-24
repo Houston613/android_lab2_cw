@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Continue Watch</string>
+    <string name="textview">TextView</string>
+    <string name="second_elapsed">SecondElapsed: %1$d</string>
 </resources>
